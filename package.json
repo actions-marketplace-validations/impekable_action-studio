@@ -35,7 +35,7 @@
     "@actions/core": "^1.2.6",
     "@actions/github": "^4.0.0",
     "@types/express": "^4.17.11",
-    "twilio": "^3.57.0"
+    "twilio": "^3.84.0"
   },
   "devDependencies": {
     "@types/jest": "^26.0.15",
